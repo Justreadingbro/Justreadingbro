@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -chutiakailash@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: If life gives you a lewmon, make a lemonade
+- ⚡ Fun fact: If life gives you a lemon, make a lemonade
 
 <!---
 Justreadingbro/Justreadingbro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
