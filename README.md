@@ -20,7 +20,7 @@ I'm a passionate developer with a strong background in **C++** and **Python**. I
 
 ## 🔧 Skills
 - **Programming Languages:** C++, Python
-- **Technologies & Tools:** Git, Linux, [other tools you use]
+- **Technologies & Tools:** Git, Linux, npm, node, llm's, tkinter
 
 ---
 
