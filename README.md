@@ -10,7 +10,7 @@
 Justreadingbro/Justreadingbro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Animated Banner](https://media.giphy.com/media/l0HlQ4jxMoxmkBRti/giphy.gif)
+![Animated Banner](https://media3.giphy.com/media/2YDUWRh81Wj0oYtJUd/giphy.gif?cid=6c09b952uh45uoz0zfcpq4or3a78w9x3g6miw72kwpmbq7kl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 # Hi, I'm Justreadingbro 👋
 
