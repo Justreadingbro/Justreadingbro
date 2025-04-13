@@ -123,12 +123,13 @@
 
 <div align="center">
   <a href="https://github.com/Justreadingbro/pg-booking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justreadingbro&repo=project-one&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justreadingbro&repo=pg-booking&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
   <a href="https://github.com/Justreadingbro/MediPrompt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justreadingbro&repo=project-two&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justreadingbro&repo=MediPrompt&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </div>
+
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
