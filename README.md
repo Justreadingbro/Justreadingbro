@@ -3,6 +3,7 @@
 </h1>
 <br>
 <div align="center">
+  <img src="https://via.placeholder.com/1x10/00000000/00000000?text=+" alt="" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;ML+Enthusiast;Problem+Solver;CS:GO+Player&size=20&color=00b4d8&center=false&width=220&height=25">
 </div>
