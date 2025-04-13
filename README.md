@@ -122,10 +122,10 @@
 </h3>
 
 <div align="center">
-  <a href="https://github.com/Justreadingbro/project-one">
+  <a href="https://github.com/Justreadingbro/pg-booking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justreadingbro&repo=project-one&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
-  <a href="https://github.com/Justreadingbro/project-two">
+  <a href="https://github.com/Justreadingbro/MediPrompt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justreadingbro&repo=project-two&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </div>
