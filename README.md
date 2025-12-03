@@ -167,20 +167,19 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Justreadingbro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&show_icons=true&include_all_commits=true&count_private=false" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Justreadingbro&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Justreadingbro&theme=dark&hide_border=true&background=0D1117&stroke=00ffff&ring=ff00ff&fire=00ffff&currStreakLabel=00ffff&sideLabels=ffffff" width="100%" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Justreadingbro&theme=dark&hide_border=false" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justreadingbro&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&text_color=ffffff&include_all_commits=true&count_private=false" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justreadingbro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" />
       </td>
     </tr>
   </table>
 </div>
-
 
 <br>
 
