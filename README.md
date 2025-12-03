@@ -1,231 +1,180 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=INITIALIZING_NEURAL_LINK;WELCOME_TO_THE_MATRIX;I'M_PRITAMJYOTI_CHUTIA&center=true&size=30&color=00FFFF&duration=3000&pause=500&background=000000&vCenter=true&width=600&height=70">
-</h1>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:FF00FF&height=200&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=EXPLORING%20THE%20DIGITAL%20FRONTIER&descAlignY=55&descSize=15">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,33&height=300&section=header&text=PRITAMJYOTI%20CHUTIA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=ARCHITECT%20%7C%20FULL%20STACK%20%7C%20GAME%20DEV&descAlignY=65&descSize=20&descColor=00ffff" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Quantum%20Code%20Engineer;Neural%20Network%20Architect;Reality%20Hacker;CS:GO%20Tactician&size=22&color=00FFFF&center=true&vCenter=true&width=450&height=35&duration=3000&pause=700&background=000000">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello+World!%22);Initializing+Neural_Network...;Loading_Modules:+AI,+Web3,+GameDev;Target:_Constructing_Digital_Reality;Status:_ONLINE&font=Fira+Code&center=true&width=600&height=50&color=00ffff&vCenter=true&size=18&pause=1000" />
+  </a>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pritamjyoti-chutia">
-    <img src="https://img.shields.io/badge/NEURAL.LINK-Pritamjyoti_Chutia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=00FFFF"/>
+<div align="center">
+  <a href="https://linkedin.com/in/pritamjyoti-chutia">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/Justreading_bro">
-    <img src="https://img.shields.io/badge/SIGNAL-@Justreading__bro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black&color=00FFFF"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:chutiakailash@gmail.com">
-    <img src="https://img.shields.io/badge/TRANSMISSION-chutiakailash@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=00FFFF"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px"> 
-  <span style="background: linear-gradient(to right, #00FFFF, #FF00FF); -webkit-background-clip: text; color: transparent;">SYSTEM SPECIFICATIONS</span>
-</h2>
-
-<p align="center">
-  <em>"The code you write today is the reality someone lives in tomorrow ⚡"</em>
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Justreadingbro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_radius=20" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justreadingbro&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&sideLabels=00FFFF&border_radius=20" alt="GitHub Streak Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Justreadingbro&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justreadingbro&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=20" height="200px"/>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40px">
-  <span style="background: linear-gradient(to right, #00FFFF, #FF00FF); -webkit-background-clip: text; color: transparent;">TECH ARSENAL</span>
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3 align="center">LANGUAGES</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black&color=00FFFF" alt="C++" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=00FFFF" alt="Python" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=00FFFF" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black&color=00FFFF" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=00FFFF" alt="HTML5" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=00FFFF" alt="CSS3" />
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=00FFFF" alt="Java" />
-          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black&color=00FFFF" alt="Kotlin" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">FRAMEWORKS & LIBRARIES</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black&color=FF00FF" alt="Node.js" />
-          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black&color=FF00FF" alt="Express" />
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=black&color=FF00FF" alt="PyTorch" />
-          <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=FF00FF" alt="Matplotlib" />
-          <img src="https://img.shields.io/badge/Transformers-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=black&color=FF00FF" alt="Transformers" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black&color=FF00FF" alt="MongoDB" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">TOOLS & ENVIRONMENTS</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=00FFFF" alt="Git" />
-          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black&color=00FFFF" alt="VS Code" />
-          <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=black&color=00FFFF" alt="PyCharm" />
-          <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=black&color=00FFFF" alt="WebStorm" />
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=black&color=00FFFF" alt="Linux" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="40px">
-  <span style="background: linear-gradient(to right, #00FFFF, #FF00FF); -webkit-background-clip: text; color: transparent;">FEATURED CONSTRUCTS</span>
-</h2>
-
-<div align="center">
-  <a href="https://github.com/Justreadingbro/pg-booking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justreadingbro&repo=pg-booking&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_radius=20" />
-  </a>
-  <a href="https://github.com/Justreadingbro/MediPrompt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justreadingbro&repo=MediPrompt&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_radius=20" />
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="40px">
-  <span style="background: linear-gradient(to right, #00FFFF, #FF00FF); -webkit-background-clip: text; color: transparent;">NEURAL UPGRADES IN PROGRESS</span>
-</h2>
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="80px"><br>
-        <h3>Advanced C++</h3>
-        <div class="progress">
-          <div class="progress-bar" style="width:75%"></div>
-        </div>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="80px"><br>
-        <h3>Machine Learning & AI</h3>
-        <div class="progress">
-          <div class="progress-bar" style="width:85%"></div>
-        </div>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="80px"><br>
-        <h3>Quantum Computing</h3>
-        <div class="progress">
-          <div class="progress-bar" style="width:60%"></div>
-        </div>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/HVofJOWFXGpDX4xeg1/giphy.gif" width="80px"><br>
-        <h3>Web3 Development</h3>
-        <div class="progress">
-          <div class="progress-bar" style="width:70%"></div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40px">
-  <span style="background: linear-gradient(to right, #00FFFF, #FF00FF); -webkit-background-clip: text; color: transparent;">SIMULATION INTERESTS</span>
-</h2>
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80px">
-        <h3>Gaming</h3>
-        <p>CS:GO tactical operator with strategic mind</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="80px">
-        <h3>Open Source</h3>
-        <p>Digital collective consciousness contributor</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80px">
-        <h3>Problem Solving</h3>
-        <p>Algorithmic reality bender</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <span style="background: linear-gradient(to right, #00FFFF, #FF00FF); -webkit-background-clip: text; color: transparent;">NEURAL NETWORK CONNECTION</span>
-</h2>
-
-<div align="center">
-  <p>Establish a neural link and let's hack reality together</p>
-  
-  <img src="https://komarev.com/ghpvc/?username=Justreadingbro&style=for-the-badge&color=blueviolet" alt="Profile Matrix Breaches"/>
-  
   <a href="https://github.com/Justreadingbro">
-    <img src="https://img.shields.io/github/followers/Justreadingbro?label=Neural%20Network%20Nodes&style=for-the-badge&color=00FFFF&labelColor=black" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=150&section=footer&animation=fadeIn&text=END%20OF%20TRANSMISSION&fontColor=FFFFFF&fontSize=30&fontAlignY=80"/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=NEURAL+LINK+TERMINATED;SYSTEM+HIBERNATING;SEE+YOU+IN+THE+METAVERSE&center=true&size=22&color=00FFFF&width=500&height=45&vCenter=true&pause=1000&duration=2000&background=0D1117">
+</div>
+
+<br />
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px">
+  <span style="color: #00ffff;">ACTIVE SYSTEM MODULES</span>
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100%">
+        <br>
+        <b>CORE LANGUAGES & SCRIPTING</b><br>
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white">
+        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white">
+        <br><br>
+        
+ <b>FRONTEND & UI ARCHITECTURE</b><br>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
+        <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D">
+        <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white">
+        <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white">
+        <br><br>
+     <b>BACKEND & CLOUD INFRASTRUCTURE</b><br>
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
+        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi">
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
+        <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white">
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase">
+        <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white">
+        <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white">
+        <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white">
+        <br><br>
+       <b>DATABASE & STORAGE</b><br>
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white">
+        <br><br>
+
+   <b>AI, DATA & WEB3</b><br>
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white">
+        <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white">
+        <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white">
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white">
+        <br><br>
+    <b>CREATIVE & DESIGN SUITE</b><br>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
+        <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white">
+        <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white">
+        <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white">
+        <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white">
+        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white">
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
+        <br><br>
+      <b>GAME DEVELOPMENT & GRAPHICS</b><br>
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat">
+        <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat">
+        <img src="https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white">
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px">
+  <span style="color: #00ffff;">NEURAL LINK METRICS</span>
+</h2>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Justreadingbro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&show_icons=true&count_private=true" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Justreadingbro&theme=dark&hide_border=true&background=0D1117&stroke=00ffff&ring=ff00ff&fire=00ffff&currStreakLabel=00ffff&sideLabels=ffffff" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justreadingbro&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&text_color=ffffff" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h3 align="center" style="color: #00ffff;">🏆 PRIMARY DIRECTIVES (TOP REPOS)</h3>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Justreadingbro&limit=4&theme=dark&combine_all_yearly_contributions=true&bg_color=0D1117&border_color=30363d&title_color=00ffff&text_color=ffffff" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Justreadingbro&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</div>
+
+<br>
+
+<h2 align="center">
+  <span style="color: #ff00ff;">CONTRIBUTION TRAJECTORY</span>
+</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</div>
+
+<br/>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&is_bionic=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Justreadingbro&icon=5&color=2" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,33&height=120&section=footer&text=END_OF_LINE&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=50" width="100%" />
 </div>
