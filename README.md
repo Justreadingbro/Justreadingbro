@@ -167,7 +167,7 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Justreadingbro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&show_icons=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Justreadingbro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&show_icons=true&include_all_commits=true&count_private=false" width="100%" />
       </td>
       <td width="50%" align="center">
         <img src="https://nirzak-streak-stats.vercel.app/?user=Justreadingbro&theme=dark&hide_border=true&background=0D1117&stroke=00ffff&ring=ff00ff&fire=00ffff&currStreakLabel=00ffff&sideLabels=ffffff" width="100%" />
@@ -175,11 +175,12 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justreadingbro&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&text_color=ffffff" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justreadingbro&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffff&text_color=ffffff&include_all_commits=true&count_private=false" width="100%" />
       </td>
     </tr>
   </table>
 </div>
+
 
 <br>
 
@@ -212,8 +213,12 @@
 <br>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Justreadingbro&icon=5&color=2" />
+  <img src="https://komarev.com/ghpvc/?username=Justreadingbro&label=NETRUNNER_VISITS&style=for-the-badge&color=00ffff&label_color=000000" alt="Profile views" />
+</div>
+
+<div align="center">
+  <a href="https://info.flagcounter.com/WZth">
+    <img src="https://s01.flagcounter.com/count2/WZth/bg_000000/txt_FFFFFF/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0">
   </a>
 </div>
 
